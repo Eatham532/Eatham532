@@ -1,6 +1,8 @@
 👋 Hi! Glad you're here!
 - I am a young developer interested in computers and coding
 
+
+## Currently wasting my week programming in
 <!--START_SECTION:waka-->
 
 ```txt
