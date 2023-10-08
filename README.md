@@ -1,7 +1,7 @@
 👋 Hi! Glad you're here!
 - I am a young developer interested in computers and coding
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eatham532)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eatham532&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Currently wasting my week programming in
