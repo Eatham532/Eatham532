@@ -23,8 +23,7 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 40 mins   ████████████████████████▓   98.59 %
-Rust    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other   1 hr 17 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
