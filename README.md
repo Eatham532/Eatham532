@@ -23,7 +23,7 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 1 min      █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
