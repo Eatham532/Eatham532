@@ -23,11 +23,11 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   28.58 %
-TypeScript       1 hr 21 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
-Rust             1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
-Other            36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-JSON             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+JavaScript       1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+TypeScript       1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   24.63 %
+Rust             1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
+Other            57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+JSON             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
