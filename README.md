@@ -23,11 +23,11 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-CSS           3 hrs 25 mins   █████████████▒░░░░░░░░░░░   53.19 %
-TypeScript    2 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   31.36 %
-Image (svg)   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-TOML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-JavaScript    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+CSS           3 hrs 25 mins   ██████████████▓░░░░░░░░░░   58.41 %
+TypeScript    1 hr 39 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 %
+Image (svg)   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+TOML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
