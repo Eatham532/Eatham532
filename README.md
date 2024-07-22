@@ -23,11 +23,11 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            40 mins         █████████▓░░░░░░░░░░░░░░░   38.08 %
-Java              29 mins         ███████░░░░░░░░░░░░░░░░░░   27.97 %
-Rust              21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-XML               11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-GitIgnore file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Kotlin            40 mins         ██████████▒░░░░░░░░░░░░░░   41.95 %
+Java              29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.81 %
+Rust              11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+XML               11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+GitIgnore file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
