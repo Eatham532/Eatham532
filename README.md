@@ -23,11 +23,9 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-Python            48 mins         ████████▒░░░░░░░░░░░░░░░░   33.10 %
-Kotlin            40 mins         ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Java              29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-Rust              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-XML               11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Python           58 mins         ████████████████████████▒   97.13 %
+JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
