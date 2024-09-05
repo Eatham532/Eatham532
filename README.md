@@ -23,11 +23,11 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-Python             49 mins         ████████████████░░░░░░░░░   64.52 %
-Rust               18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-TypeScript         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-textmate           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Rust               18 mins         █████████████████░░░░░░░░   67.53 %
+TypeScript         8 mins          ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+CSS                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+textmate           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
