@@ -23,11 +23,7 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-Python             0 secs          ███████████████░░░░░░░░░░   59.56 %
-textmate           0 secs          █████████▒░░░░░░░░░░░░░░░   37.30 %
-Text               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
