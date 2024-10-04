@@ -23,11 +23,11 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-C#               1 hr 6 mins     ███████████▒░░░░░░░░░░░░░   45.68 %
-Binary           50 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 %
-TypeScript       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Text             8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JavaScript       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+C#               1 hr 6 mins     ███████████░░░░░░░░░░░░░░   43.82 %
+Binary           50 mins         ████████▒░░░░░░░░░░░░░░░░   33.17 %
+TypeScript       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Text             8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+JavaScript       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
