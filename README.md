@@ -23,10 +23,7 @@ List of languages I have programmed in
 <!--START_SECTION:waka-->
 
 ```txt
-mcfunction   3 mins          ██████████████▓░░░░░░░░░░   58.11 %
-Java         2 mins          ██████████▒░░░░░░░░░░░░░░   41.63 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
