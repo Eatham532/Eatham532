@@ -31,4 +31,5 @@ No activity tracked
 ## Contact
 
 Discord: @eatingmahambra
+
 Email (Alias): github.sibling556@passinbox.com
