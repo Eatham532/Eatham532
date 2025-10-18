@@ -27,3 +27,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+## Contact
+
+Discord: @eatingmahambra
+Email (Alias): github.sibling556@passinbox.com
