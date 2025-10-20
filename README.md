@@ -30,6 +30,6 @@ No activity tracked
 
 ## Contact
 
-Discord: @eatingmahambra
+Discord: @eatingtheham
 
 Email (Alias): github.sibling556@passinbox.com
